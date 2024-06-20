@@ -1,5 +1,5 @@
 # Nqueen
-Project Hosted at https://jindal2209.github.io/nqueen
+Project Hosted at 
 
 # Getting Started with Create React App
 
